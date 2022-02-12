@@ -1,0 +1,425 @@
+[
+  {
+    "Id": "31191e0e-891d-41b9-aea5-8f29298cb25f",
+    "SubTopic": "Basics of HTML",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "HTML is amazingly simple and yet powerful. It has become a key component of every website today.",
+    "IsPublished": true,
+    "UserId": "c7458c52-b7ae-492f-a168-c370898dc22e",
+    "PublisherId": "c7458c52-b7ae-492f-a168-c370898dc22e"
+  },
+
+  {
+    "Id": "def5c35f-976c-4bf6-b337-62ee95ad7a2c",
+    "SubTopic": "Why HTML?",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "HTML is amazingly simple and yet powerful. It has become a key component of every website today.",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "c7458c52-b7ae-492f-a168-c370898dc22e"
+  },
+
+  {
+    "Id": "e6ee26e9-04e4-4195-8d8e-295dbe6bf497",
+    "SubTopic": "HTML concepts",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "HTML is amazingly simple and yet powerful. It has become a key component of every website today.",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "c7458c52-b7ae-492f-a168-c370898dc22e"
+  },
+
+  {
+    "Id": "4dd85158-8503-4b12-9c6e-fd0f771818dd",
+    "SubTopic": "Advanced HTML",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "HTML is amazingly simple and yet powerful. It has become a key component of every website today.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "c7458c52-b7ae-492f-a168-c370898dc22e"
+  },
+
+
+  {
+    "Id": "8cb7c2df-b6b2-47d7-977e-8c4cc4931f34",
+    "SubTopic": "Advanced HTML 1",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "HTML is amazingly simple and yet powerful. It has become a key component of every website today.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "c7458c52-b7ae-492f-a168-c370898dc22e"
+  },
+
+  {
+    "Id": "7cfb6801-6883-4bbe-ba5c-2b1c1d0307bc",
+    "SubTopic": "Advanced HTML 2",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "HTML is amazingly simple and yet powerful. It has become a key component of every website today.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "d895c73c-e691-4cc7-bb6f-45ffd5fdad70"
+  },
+
+  {
+    "Id": "a4c75f3a-0cbf-4e45-9563-a64e4cf82e71",
+    "SubTopic": "Advanced HTML 3",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "HTML is amazingly simple and yet powerful. It has become a key component of every website today.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "d895c73c-e691-4cc7-bb6f-45ffd5fdad70"
+  },
+
+  {
+    "Id": "8020e3d2-11fc-4967-8e11-b49e3f61ff81",
+    "SubTopic": "Advanced HTML 4",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "HTML is amazingly simple and yet powerful. It has become a key component of every website today.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "d895c73c-e691-4cc7-bb6f-45ffd5fdad70"
+  },
+
+  {
+    "Id": "271a7706-07e7-4a60-b5cd-8f964860f2c6",
+    "SubTopic": "Advanced HTML 5",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "HTML is amazingly simple and yet powerful. It has become a key component of every website today.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "d895c73c-e691-4cc7-bb6f-45ffd5fdad70"
+  },
+
+  {
+    "Id": "724d4018-72af-49dd-b5e6-67e05dea7b6b",
+    "SubTopic": "Basics of C#",
+    "ArticleTopicId": "3c8feb85-15ae-4e1e-9fe2-6873d1df98eb",
+    "ArticleText": "C# is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "c7458c52-b7ae-492f-a168-c370898dc22e",
+    "PublisherId": "d895c73c-e691-4cc7-bb6f-45ffd5fdad70"
+  },
+  {
+    "Id": "05180337-a17c-4732-82d5-45379a8c8410",
+    "SubTopic": "Why C#?",
+    "ArticleTopicId": "3c8feb85-15ae-4e1e-9fe2-6873d1df98eb",
+    "ArticleText": "C# is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "918d70da-758e-4403-80c2-d5318f2732e6",
+    "SubTopic": "C# concepts",
+    "ArticleTopicId": "3c8feb85-15ae-4e1e-9fe2-6873d1df98eb",
+    "ArticleText": "C# is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "fc195486-f829-4ada-8d58-bbbf317f7fe0",
+    "SubTopic": "Advanced C#",
+    "ArticleTopicId": "3c8feb85-15ae-4e1e-9fe2-6873d1df98eb",
+    "ArticleText": "C# is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+
+  {
+    "Id": "e973adb8-e460-4d81-97b7-e0c48bcf1682",
+    "SubTopic": "Advanced C# 1",
+    "ArticleTopicId": "3c8feb85-15ae-4e1e-9fe2-6873d1df98eb",
+    "ArticleText": "C# is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "301272c7-e260-4944-b0c6-d58195d7b921",
+    "SubTopic": "Advanced C# 2",
+    "ArticleTopicId": "3c8feb85-15ae-4e1e-9fe2-6873d1df98eb",
+    "ArticleText": "C# is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "11195393-af23-4f4e-b2cc-19df34e6835a",
+    "SubTopic": "Advanced C# 3",
+    "ArticleTopicId": "3c8feb85-15ae-4e1e-9fe2-6873d1df98eb",
+    "ArticleText": "C# is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "196e4a32-b31f-4085-94d7-a7e70419eb39",
+    "SubTopic": "Advanced C# 4",
+    "ArticleTopicId": "3c8feb85-15ae-4e1e-9fe2-6873d1df98eb",
+    "ArticleText": "C# is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "531d214b-723c-499a-9124-7df37f3f3c12",
+    "SubTopic": "Advanced C# 5",
+    "ArticleTopicId": "3c8feb85-15ae-4e1e-9fe2-6873d1df98eb",
+    "ArticleText": "C# is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+
+  {
+    "Id": "d841590e-4362-450f-8085-1e1655b06b06",
+    "SubTopic": "Basics of Node",
+    "ArticleTopicId": "f9610c91-9a09-4494-af22-7ea9840c8469",
+    "ArticleText": "Node is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "c7458c52-b7ae-492f-a168-c370898dc22e",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "0b95db50-ea30-4a52-a918-6f424d3aaf91",
+    "SubTopic": "Why Node?",
+    "ArticleTopicId": "f9610c91-9a09-4494-af22-7ea9840c8469",
+    "ArticleText": "Node is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "4f535acb-139e-47da-a7cd-57f45e7d7608",
+    "SubTopic": "Node concepts",
+    "ArticleTopicId": "f9610c91-9a09-4494-af22-7ea9840c8469",
+    "ArticleText": "Node is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "391f74ee-c0e8-42cf-b05c-655de37ec591"
+  },
+  {
+    "Id": "e427cbd9-bcd9-48b4-91af-017c56718e18",
+    "SubTopic": "Advanced Node",
+    "ArticleTopicId": "f9610c91-9a09-4494-af22-7ea9840c8469",
+    "ArticleText": "Node is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "391f74ee-c0e8-42cf-b05c-655de37ec591"
+  },
+
+  {
+    "Id": "e5324f6e-c153-45c3-942d-2a362cda872b",
+    "SubTopic": "Advanced Node 1",
+    "ArticleTopicId": "f9610c91-9a09-4494-af22-7ea9840c8469",
+    "ArticleText": "Node is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "391f74ee-c0e8-42cf-b05c-655de37ec591"
+  },
+  {
+    "Id": "b53a57c3-520c-4bfd-a8c6-f743e486e8eb",
+    "SubTopic": "Advanced Node 2",
+    "ArticleTopicId": "f9610c91-9a09-4494-af22-7ea9840c8469",
+    "ArticleText": "Node is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "391f74ee-c0e8-42cf-b05c-655de37ec591"
+  },
+  {
+    "Id": "122a907b-bfc8-4ff6-ab98-79e885d9a026",
+    "SubTopic": "Advanced Node 3",
+    "ArticleTopicId": "f9610c91-9a09-4494-af22-7ea9840c8469",
+    "ArticleText": "Node is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "391f74ee-c0e8-42cf-b05c-655de37ec591"
+  },
+  {
+    "Id": "8886dce4-b3d2-49b1-a72c-9733856dec6c",
+    "SubTopic": "Advanced Node 4",
+    "ArticleTopicId": "f9610c91-9a09-4494-af22-7ea9840c8469",
+    "ArticleText": "Node is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "391f74ee-c0e8-42cf-b05c-655de37ec591"
+  },
+  {
+    "Id": "f0bc2d42-a56f-46da-987b-c621b3eea46f",
+    "SubTopic": "Advanced Node 5",
+    "ArticleTopicId": "f9610c91-9a09-4494-af22-7ea9840c8469",
+    "ArticleText": "Node is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "391f74ee-c0e8-42cf-b05c-655de37ec591"
+  },
+
+  {
+    "Id": "42c977be-bd9c-4122-b138-c1e8cb8ffe4d",
+    "SubTopic": "Basics of Java",
+    "ArticleTopicId": "cb75b5bd-ee46-4e3e-93a8-f84b88ed0d6f",
+    "ArticleText": "Java is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "c7458c52-b7ae-492f-a168-c370898dc22e",
+    "PublisherId": "391f74ee-c0e8-42cf-b05c-655de37ec591"
+  },
+  {
+    "Id": "5046e0d9-e614-4f70-99f1-71b0a0576cbc",
+    "SubTopic": "Why Java?",
+    "ArticleTopicId": "cb75b5bd-ee46-4e3e-93a8-f84b88ed0d6f",
+    "ArticleText": "Java is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "391f74ee-c0e8-42cf-b05c-655de37ec591"
+  },
+  {
+    "Id": "214116bd-5c42-47ec-afb7-c69390a505a6",
+    "SubTopic": "Java concepts",
+    "ArticleTopicId": "cb75b5bd-ee46-4e3e-93a8-f84b88ed0d6f",
+    "ArticleText": "Java is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "391f74ee-c0e8-42cf-b05c-655de37ec591"
+  },
+  {
+    "Id": "e1230fb0-2c93-4cbe-b533-3b5c4ab4950c",
+    "SubTopic": "Advanced Java",
+    "ArticleTopicId": "cb75b5bd-ee46-4e3e-93a8-f84b88ed0d6f",
+    "ArticleText": "Java is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "0c4326cc-37bb-48a2-84dd-6be02b23699b"
+  },
+
+  {
+    "Id": "1358318c-b147-4bcb-88e8-5206e3c473b0",
+    "SubTopic": "Advanced Java 1",
+    "ArticleTopicId": "cb75b5bd-ee46-4e3e-93a8-f84b88ed0d6f",
+    "ArticleText": "Java is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "0c4326cc-37bb-48a2-84dd-6be02b23699b"
+  },
+  {
+    "Id": "e4007c51-f620-4413-ba58-120daa92f2d2",
+    "SubTopic": "Advanced Java 2",
+    "ArticleTopicId": "cb75b5bd-ee46-4e3e-93a8-f84b88ed0d6f",
+    "ArticleText": "Java is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "0c4326cc-37bb-48a2-84dd-6be02b23699b"
+  },
+  {
+    "Id": "46459160-3334-466a-8628-f3616e9d49a2",
+    "SubTopic": "Advanced Java 3",
+    "ArticleTopicId": "cb75b5bd-ee46-4e3e-93a8-f84b88ed0d6f",
+    "ArticleText": "Java is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "0c4326cc-37bb-48a2-84dd-6be02b23699b"
+  },
+  {
+    "Id": "048e7c23-7be8-44b6-ab34-cf32012dc9d6",
+    "SubTopic": "Advanced Java 4",
+    "ArticleTopicId": "cb75b5bd-ee46-4e3e-93a8-f84b88ed0d6f",
+    "ArticleText": "Java is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "0c4326cc-37bb-48a2-84dd-6be02b23699b"
+  },
+  {
+    "Id": "816b9268-04b8-4b4a-96d4-b42884544836",
+    "SubTopic": "Advanced Java 5",
+    "ArticleTopicId": "cb75b5bd-ee46-4e3e-93a8-f84b88ed0d6f",
+    "ArticleText": "Java is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "0c4326cc-37bb-48a2-84dd-6be02b23699b"
+  },
+
+  {
+    "Id": "e42a74cf-92a8-4e70-b75a-5f17553fb98a",
+    "SubTopic": "Basics of Python",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "Python is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "c7458c52-b7ae-492f-a168-c370898dc22e",
+    "PublisherId": "0c4326cc-37bb-48a2-84dd-6be02b23699b"
+  },
+  {
+    "Id": "6264855c-38b6-406a-9908-722c1c8d7ba9",
+    "SubTopic": "Concepts of Python",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "Python is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "0c4326cc-37bb-48a2-84dd-6be02b23699b"
+  },
+  {
+    "Id": "456888af-ca36-47ea-b77b-6a76bd7bc595",
+    "SubTopic": "Why Python?",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "Python is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "0c4326cc-37bb-48a2-84dd-6be02b23699b"
+  },
+  {
+    "Id": "3db4d9cf-bf00-44be-8a1d-8d6d4d6be574",
+    "SubTopic": "Advanced Python",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "Python is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "09d5de62-bfea-4add-94a6-dd1db802eddd"
+  },
+
+  {
+    "Id": "2798bf55-d13c-4c91-952b-0c71accc14eb",
+    "SubTopic": "Advanced Python 1",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "Python is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "09d5de62-bfea-4add-94a6-dd1db802eddd"
+  },
+  {
+    "Id": "1beebbdb-6b29-4d6e-9145-239372e89c20",
+    "SubTopic": "Advanced Python 2",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "Python is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "09d5de62-bfea-4add-94a6-dd1db802eddd"
+  },
+  {
+    "Id": "ef93b2e6-eda1-48b3-9fe4-046c134cee98",
+    "SubTopic": "Advanced Python 3",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "Python is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "09d5de62-bfea-4add-94a6-dd1db802eddd"
+  },
+  {
+    "Id": "4eefe394-50c6-4324-ba47-b26257dbacc1",
+    "SubTopic": "Advanced Python 4",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "Python is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "09d5de62-bfea-4add-94a6-dd1db802eddd"
+  },
+  {
+    "Id": "22ebf828-96f3-4f5f-a46e-ec1a5fcb697b",
+    "SubTopic": "Advanced Python 5",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "Python is a very powerful server-side programming language for building APIs, Mobile apps, etc.",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "09d5de62-bfea-4add-94a6-dd1db802eddd"
+  }
+
+]

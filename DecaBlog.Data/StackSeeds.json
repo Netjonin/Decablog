@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7211a222-43d2-4387-b5c3-c84d6688f84c",
+    "name": "Node",
+    "description": "JAvascript"
+  },
+  {
+    "id": "48ae527f-9f44-4ba5-9036-ede50caa4a19",
+    "name": "Python",
+    "description": "Django"
+  },
+  {
+    "id": "aac71a26-8593-4197-936e-c1c6a41715ff",
+    "name": "iOS",
+    "description": "Swift"
+  },
+  {
+    "id": "9299316a-c66e-4e1f-985b-5e3f4f83b310",
+    "name": "Android",
+    "description": "Flutter"
+  },
+  {
+    "id": "56a9e324-ed37-4b5a-bb07-b7377998ba84",
+    "name": "Java",
+    "description": "Springboot"
+  },
+  {
+    "id": "57e51374-de78-493d-91fc-e8f901448e3e",
+    "name": ".Net",
+    "description": "C#, EFcore"
+  }
+]
